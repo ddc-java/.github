@@ -1,10 +1,10 @@
 ## Overview
 
 This org is the primary location for developing and evolving curriculum content of the [Deep Dive Java Enterprise & Android Mobile bootcamp](https://deepdivecoding.com/java-android/).
-
+  
 ## Course management
 
-- [Course syllabus](https://ddc-java.github.io/library/documents/Deep%20Dive%20Java%20Enterprise%20%26%20Android%20Mobile%20Bootcamp%20Cohort%2020%22Syllabus.pdf)
+- [Course syllabus](https://ddc-java.github.io/library/documents/Deep%20Dive%20Java%20Enterprise%20%26%20Android%20Mobile%20Bootcamp%20Cohort%2022%20Syllabus.pdf)
 - [Exam structure and policies](https://ddc-java.github.io/library/documents/Deep%20Dive%20Java%20Enterprise%20%26%20Android%20Mobile%20Bootcamp%20Cohort%2022%20Exam%20Structure%20%26%20Policies.pdf)
 - [Classroom practices & protocols](https://ddc-java.github.io/library/documents/Classroom%20practices%20%26%20protocols.pdf)
 - [Things Nick says a lot (that you'll all get sick of)](https://ddc-java.github.io/library/documents/Things%20Nick%20says%20a%20lot.pdf)
