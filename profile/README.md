@@ -2,15 +2,6 @@
 
 This org is the primary location for developing and evolving curriculum content of the [Deep Dive Java Enterprise & Android Mobile bootcamp](https://deepdivecoding.com/java-android/).
 
-## Course sites
-
-Each cohort of the bootcamp participates in the bootcamp not only in a physical classroom, but also via cohort-specific resources:
-
-- GitHub org
-- Course in CNM's [Brightspace site](https://mycourses.cnm.edu)
-- Channel of the [Deep Dive Slack organization](https://deepdivecoding.slack.com)
-- Zoom classroom
-
 ## Course management
 
 - [Course syllabus](https://ddc-java.github.io/library/documents/Deep%20Dive%20Java%20Enterprise%20%26%20Android%20Mobile%20Bootcamp%20Cohort%2020%22Syllabus.pdf)
