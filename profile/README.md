@@ -43,13 +43,13 @@ Each cohort of the bootcamp participates in the bootcamp not only in a physical 
 
 - [Java Intermediate Topics](https://ddc-java.github.io/intermediate-topics/)
     - [Mathematics and Numerics](https://ddc-java.github.io/intermediate-topics/math/)
+    - [Recursion](https://ddc-java.github.io/intermediate-topics/recursion/)
     - [Runtime Resources](https://ddc-java.github.io/intermediate-topics/resources/)
     - [Functional interfaces](https://ddc-java.github.io/intermediate-topics/functional-interfaces/)
 - [Practical debugging](https://ddc-java.github.io/practical-debugging/)
 - [Parameterized tests in JUnit 5](https://ddc-java.github.io/parameterized-tests/)
 - [Relational data modeling](https://ddc-java.github.io/data-modeling)
 - [HTTP and web services](https://docs.google.com/presentation/d/1yR8OwJilmc_HNUvutiuArhIPs-f9LKP5QeyjA5GhTZw/present?usp=sharing)
-- [Recursion](https://ddc-java.github.io/recursion/)
 - [SOLID principles](https://docs.google.com/presentation/d/11GVmtD_7sYuSe5Nebb6vGlfT27n8QJcvSH4KsUCr67A/present)
 - [Separation of concerns and Model-View-Controller](https://docs.google.com/presentation/d/1Hgw_FgoXAl2nvzAjy8Nk2iljdSisetIrtA9_69gPbTU/present)
 
