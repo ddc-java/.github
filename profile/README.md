@@ -1,7 +1,7 @@
 ## Overview
 
-This org is the primary location for developing and evolving curriculum content of the [Deep Dive Java Enterprise & Android Mobile bootcamp](https://deepdivecoding.com/java-android/). Much of the curriculum is not publicly accessible: use of that content is restricted to bootcamp instructors and participants, to whom it is generally made available via private repositories in cohort-specific orgs. However, there are links below to syllabus and other program overview content, and to reference materials used in the bootcamp (most developed internally, but some external resources as well).
-  
+This org is the primary location for developing and evolving curriculum content of the [Deep Dive Java Enterprise & Android Mobile bootcamp](https://deepdivecoding.com/java-android/). Much of the curriculum is not publicly accessible: use of that content is restricted to bootcamp instructors and participants, to whom it is generally made available via private repositories (and accompanying private GitHub Pages sites) in cohort-specific orgs. However, there are links below to syllabus and other program overview content, and to reference materials used in the bootcamp (most developed internally, but some external resources as well).
+
 ## Course management
 
 - [Course syllabus](https://ddc-java.github.io/library/documents/Deep%20Dive%20Java%20Enterprise%20%26%20Android%20Mobile%20Bootcamp%20Cohort%2022%20Syllabus.pdf)
