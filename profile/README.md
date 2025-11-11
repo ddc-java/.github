@@ -1,6 +1,6 @@
 ## Overview
 
-This org is the primary location for developing and evolving curriculum content of the [Deep Dive Java Enterprise & Android Mobile bootcamp](https://deepdivecoding.com/java-android/).
+This org is the primary location for developing and evolving curriculum content of the [Deep Dive Java Enterprise & Android Mobile bootcamp](https://deepdivecoding.com/java-android/). Much of the curriculum is not publicly available: access to and use of that content is restricted to sbootcamp instructors and participants. However, there are links below to syllabus and other program overview content, and to reference materials used in the bootcamp (most developed internally, but some external resources as well).
   
 ## Course management
 
