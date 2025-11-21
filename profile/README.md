@@ -58,7 +58,6 @@ This org is the primary location for developing and evolving curriculum content 
 #### Concepts & practices
 
 - [Algorithms & pseudocode](https://ddc-java.github.io/library/documents/Introduction%20to%20Algorithms%20and%20Pseudocode.pdf)
-- [Algorithms & implementations: Three simple problems](https://ddc-java.github.io/library/documents/Introduction%20to%20Algorithms%20and%20Implementations_%20Three%20Simple%20Problems.pdf)
 - [User story](https://en.wikipedia.org/wiki/User_story)
 - [Wireframing](https://www.interaction-design.org/literature/topics/wireframing)
 - [Initialization-on-demand holder idiom](https://en.wikipedia.org/wiki/Initialization-on-demand_holder_idiom)
